@@ -1,4 +1,5 @@
 const potatoes = document.createElement('div')
+potatoes.id = "Potatoes"
 
 const potatoesTitle = document.createElement('h2')
 const potatoesText = document.createElement('p')

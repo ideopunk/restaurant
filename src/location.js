@@ -1,4 +1,5 @@
 const location = document.createElement('div')
+location.id = "Location"
 
 const locationText = document.createElement('p')
 const locationTitle = document.createElement('h2')

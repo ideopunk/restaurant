@@ -1,4 +1,5 @@
 const story = document.createElement('div');
+story.id = "Our Story"
 const storyTitle = document.createElement('h2');
 const storyText = document.createElement('p')
 
