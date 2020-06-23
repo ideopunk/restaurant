@@ -2,7 +2,7 @@ const headline = document.createElement('h1')
 headline.textContent = "Potatoland Forever!"
 
 const copy = document.createElement('p');
-copy.textContent = "Potatoland was there for me when no one else was."
+copy.textContent = "Potatoland will always be there for you"
 
 export {
     headline,
