@@ -1,6 +1,7 @@
-import { background } from './pageload.js'
+import { headline } from './pageload.js';
+import './style.css';
 
-document.body.appendChild(background)
+document.body.appendChild(headline)
 
 // test
 

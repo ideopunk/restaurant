@@ -1,6 +1,6 @@
-const background = document.createElement('img');
+const headline = document.createElement('h1')
+headline.textContent = "Potatoland Forever!"
 
-background.setAttribute("src", "https://wallpaperaccess.com/full/1599073.jpg");
-background.id = "background";
-
-export { background }
+export {
+    headline
+}
