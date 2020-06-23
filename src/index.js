@@ -8,6 +8,9 @@ const container = document.querySelector('#content');
 container.appendChild(headline);
 container.appendChild(copy);
 // test
+container.appendChild(story);
+container.appendChild(potatoes);
 container.appendChild(location);
+
 
 console.log('success! success! success! success! success!')
