@@ -1,7 +1,15 @@
 body {
     background-image: url("https://wallpaperaccess.com/full/1599073.jpg");
+    display: flex;
+    justify-content: center;
 }
 
-p {
-    color: red;
+p, h1 {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+#content {
+    width: 500px;
+    background-color: aliceblue;
+    opacity: 0.7;
 }
